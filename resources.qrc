@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+<RCC>
+    <qresource prefix="/plugins/switch_active_layer" >
+        <file>icon.png</file>
+		<file>active_layers.png</file>
+		<file>active_layers_down.png</file>
+		<file>active_layers_up.png</file>
+    </qresource>
+</RCC>
