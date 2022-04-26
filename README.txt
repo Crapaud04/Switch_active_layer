@@ -1,4 +1,4 @@
-Plugin Builder Results
+# Plugin Builder Results
 
 Your plugin switchactivelayer was created in:
     C:/Users/tailhaud/Documents/python/pluglin_qgis\switch_active_layer
